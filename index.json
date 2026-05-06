@@ -28,6 +28,298 @@
     {
       "game": "Sonic and the Secret Rings",
       "file": "jingles/SonicSecretRings - Jingle.mp3"
+    },
+    {
+      "game": "Astro Boy Omega Factor",
+      "file": "jingles/AstroBoy - Jingle.mp3"
+    },
+    {
+      "game": "Batman Arkham Origins Blackgate",
+      "file": "jingles/BatmanBlackgate - Jingle.mp3"
+    },
+    {
+      "game": "Boktai: THe Sun is in your Hand",
+      "file": "jingles/Boktai - Jingle.mp3"
+    },
+    {
+      "game": "Boktai 2: Solar Boy Djando",
+      "file": "jingles/Boktai2 - Jingle.mp3"
+    },
+    {
+      "game": "Boktai 3: Sabata's Counterattack",
+      "file": "jingles/Boktai3 - Jingle.mp3"
+    },
+    {
+      "game": "Castlevania Curse of Darkness",
+      "file": "jingles/CastlevaniaCoD - Jingle.mp3"
+    },
+    {
+      "game": "Castlevania Lament of Innocence",
+      "file": "jingles/CastlevaniaLoI - Jingle.mp3"
+    },
+    {
+      "game": "Chameleon Twister",
+      "file": "jingles/ChameleonT - Jingle.mp3"
+    },
+    {
+      "game": "Chameleon Twister 2",
+      "file": "jingles/ChameleonT2 - Jingle.mp3"
+    },
+    {
+      "game": "Custom Robo",
+      "file": "jingles/CustomRoboA - Jingle.mp3"
+    },
+    {
+      "game": "Drill Dozer",
+      "file": "jingles/DrillDozer - Jingle.mp3"
+    },
+    {
+      "game": "Elite Beat Agents",
+      "file": "jingles/EliteBeatAgents - Jingle.mp3"
+    },
+    {
+      "game": "Fire Emblem Awakening",
+      "file": "jingles/FEAwakening - Jingle.mp3"
+    },
+    {
+      "game": "Glover",
+      "file": "jingles/Glover - Jingle.mp3"
+    },
+    {
+      "game": "Gotcha Force",
+      "file": "jingles/GotchaForce - Jingle.mp3"
+    },
+    {
+      "game": "Gungrave",
+      "file": "jingles/Gungrave - Jingle.mp3"
+    },
+    {
+      "game": "Ico",
+      "file": "jingles/Ico - Jingle.mp3"
+    },
+    {
+      "game": "Kingdom Hearts 358/2 Days",
+      "file": "jingles/KHDays - Jingle.mp3"
+    },
+    {
+      "game": "Kid Icarus Uprising",
+      "file": "jingles/KidIcarus - Jingle.mp3"
+    },
+    {
+      "game": "Kirby Mass Attack",
+      "file": "jingles/KirbyMassAttack - Jingle.mp3"
+    },
+    {
+      "game": "Kirby Extra Epic Yarn",
+      "file": "jingles/KirbyYarn - Jingle.mp3"
+    },
+    {
+      "game": "Mega Man Legends",
+      "file": "jingles/MMLegends - Jingle.mp3"
+    },
+    {
+      "game": "Mega Man Legends 2",
+      "file": "jingles/MMLegends2 - Jingle.mp3"
+    },
+    {
+      "game": "Mega Man World",
+      "file": "jingles/MMWorld - Jingle.mp3"
+    },
+    {
+      "game": "Mega Man World 2",
+      "file": "jingles/MMWorld2 - Jingle.mp3"
+    },
+    {
+      "game": "Mega Man World 3",
+      "file": "jingles/MMWorld3 - Jingle.mp3"
+    },
+    {
+      "game": "Mega Man World 4",
+      "file": "jingles/MMWorld4 - Jingle.mp3"
+    },
+    {
+      "game": "Mega Man World 5",
+      "file": "jingles/MMWorld5 - Jingle.mp3"
+    },
+    {
+      "game": "Mega Man X Command Mission",
+      "file": "jingles/MMXCommand - Jingle.mp3"
+    },
+    {
+      "game": "Mega Man Xtreme",
+      "file": "jingles/MMXtreme - Jingle.mp3"
+    },
+    {
+      "game": "Mega Man Xtreme 2",
+      "file": "jingles/MMXtreme2 - Jingle.mp3"
+    },
+    {
+      "game": "Super Mario Galaxy 2",
+      "file": "jingles/MarioGalaxy2 - Jingle.mp3"
+    },
+    {
+      "game": "Mario & Luigi Superstar Saga",
+      "file": "jingles/MarioLuigiSuperstar - Jingle.mp3"
+    },
+    {
+      "game": "Mario & Luigi Bowser's Inside Story",
+      "file": "jingles/MarioLuigiBowser - Jingle.mp3"
+    },
+    {
+      "game": "Mario & Luigi Dream Team",
+      "file": "jingles/MarioLuigiDream - Jingle.mp3"
+    },
+    {
+      "game": "Mario & Luigi Paper Jam",
+      "file": "jingles/MarioLuigiPaper - Jingle.mp3"
+    },
+    {
+      "game": "Mario Picross",
+      "file": "jingles/MarioPicross - Jingle.mp3"
+    },
+    {
+      "game": "Mario Picross 2",
+      "file": "jingles/MarioPicross2 - Jingle.mp3"
+    },
+    {
+      "game": "Mega Man Network Transmission",
+      "file": "jingles/MegamaTransmission - Jingle.mp3"
+    },
+    {
+      "game": "Mischief Makers",
+      "file": "jingles/MischiefMakers - Jingle.mp3"
+    },
+    {
+      "game": "Mother 3",
+      "file": "jingles/Mother3 - Jingle.mp3"
+    },
+    {
+      "game": "Ninja Five-O",
+      "file": "jingles/NinjaFive - Jingle.mp3"
+    },
+    {
+      "game": "Osu! Tatakae! Ouendan!",
+      "file": "jingles/Osu - Jingle.mp3"
+    },
+    {
+      "game": "Professor Layton and the Mask of Miracles",
+      "file": "jingles/PLMask - Jingle.mp3"
+    },
+    {
+      "game": "Professor Layton and the Azran Legacy",
+      "file": "jingles/PLAzran - Jingle.mp3"
+    },
+    {
+      "game": "Parappa the rapper",
+      "file": "jingles/Parappa - Jingle.mp3"
+    },
+    {
+      "game": "Parasite Eve",
+      "file": "jingles/ParasiteEve - Jingle.mp3"
+    },
+    {
+      "game": "Parasite Eve 2",
+      "file": "jingles/ParasiteEve2 - Jingle.mp3"
+    },
+    {
+      "game": "Persona Q: Shadow of the Labyrinth",
+      "file": "jingles/PersonaQ - Jingle.mp3"
+    },
+    {
+      "game": "Persona Q2: New Cinema Labyrinth",
+      "file": "jingles/SonicSecretRings - Jingle.mp3"
+    },
+    {
+      "game": "Picross DS",
+      "file": "jingles/PicrossDs - Jingle.mp3"
+    },
+    {
+      "game": "Picross 3D",
+      "file": "jingles/Picross3D - Jingle.mp3"
+    },
+    {
+      "game": "Prince of Persia the Sands of Time",
+      "file": "jingles/PoPSands - Jingle.mp3"
+    },
+    {
+      "game": "Prince of Persia Warrior Within",
+      "file": "jingles/PoPWarrior - Jingle.mp3"
+    },
+    {
+      "game": "Pokemon Fire Red",
+      "file": "jingles/PokemonFireRed - Jingle.mp3"
+    },
+    {
+      "game": "Pokemon Emerald",
+      "file": "jingles/PokemonEmerald - Jingle.mp3"
+    },
+    {
+      "game": "Punch Out!!!",
+      "file": "jingles/PunchOutWii - Jingle.mp3"
+    },
+    {
+      "game": "Resident Evil",
+      "file": "jingles/RE - Jingle.mp3"
+    },
+    {
+      "game": "Rhythm Heaven Fever",
+      "file": "jingles/RhythmHeavenFever - Jingle.mp3"
+    },
+    {
+      "game": "Shin Megami Tensei 4",
+      "file": "jingles/SMT4A - Jingle.mp3"
+    },
+    {
+      "game": "Silent Hill",
+      "file": "jingles/Silent Hill - Jingle.mp3"
+    },
+    {
+      "game": "Skies of Arcadia Legends",
+      "file": "jingles/SkiesArcadia - Jingle.mp3"
+    },
+    {
+      "game": "Sonic Generations",
+      "file": "jingles/SonicGenerations - Jingle.mp3"
+    },
+    {
+      "game": "Sonic Rush",
+      "file": "jingles/SonicRush - Jingle.mp3"
+    },
+    {
+      "game": "Sonic Rush Adventure",
+      "file": "jingles/SonicRushAdventure - Jingle.mp3"
+    },
+    {
+      "game": "Spyro the Dragon",
+      "file": "jingles/Spyro - Jingle.mp3"
+    },
+    {
+      "game": "Tales of the Abyss",
+      "file": "jingles/TalesAbyss - Jingle.mp3"
+    },
+    {
+      "game": "Tales of Symphonia",
+      "file": "jingles/TalesSymphonia - Jingle.mp3"
+    },
+    {
+      "game": "Tokobot",
+      "file": "jingles/Tokobot - Jingle.mp3"
+    },
+    {
+      "game": "Xenogears",
+      "file": "jingles/Xenogears - Jingle.mp3"
+    },
+    {
+      "game": "Ys: The Oath in Felghana",
+      "file": "jingles/YsOath - Jingle.mp3"
+    },
+    {
+      "game": "The Legend of Zelda A Link Between Worlds",
+      "file": "jingles/ZeldaALBW - Jingle.mp3"
+    },
+    {
+      "game": "dotHack Infection",
+      "file": "jingles/dotHackInfection - Jingle.mp3"
     }
   ]
 }
