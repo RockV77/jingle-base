@@ -1,13 +1,33 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "My Jingle Pack",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Billy Hatcher and the Giant Egg",
+      "file": "jingles/BillyHatcher - Jingle.mp3"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "game": "Pikmin",
+      "file": "jingles/Pikmin - Jingle.mp3"
+    },
+    {
+      "game": "Sonic Advance",
+      "file": "jingles/SonicAdvance - Jingle.mp3"
+    },
+    {
+      "game": "Sonic Advance 2",
+      "file": "jingles/SonicAdvance2 - Jingle.mp3"
+    },
+    {
+      "game": "Sonic Advance 3",
+      "file": "jingles/SonicAdvance3 - Jingle.mp3"
+    },
+    {
+      "game": "Sonic and the Black Knight",
+      "file": "jingles/SonicBlackKnight - Jingle.mp3"
+    },
+    {
+      "game": "Sonic and the Secret Rings",
+      "file": "jingles/SonicSecretRings - Jingle.mp3"
     }
   ]
 }
