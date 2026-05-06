@@ -1,5 +1,7 @@
 # Jingle Repo Example
 
+[REPO MADE FOR PERSONAL USE]
+
 A template repository for creating Cocoon jingle packs. Use this template
 to build your own collection of game jingles that can be used with
 [Cocoon](https://github.com/inssekt/CocoonFE).
