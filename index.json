@@ -227,7 +227,7 @@
     },
     {
       "game": "Persona Q2: New Cinema Labyrinth",
-      "file": "jingles/SonicSecretRings - Jingle.mp3"
+      "file": "jingles/PersonaQ2 - Jingle.mp3"
     },
     {
       "game": "Picross DS",
@@ -310,7 +310,7 @@
       "file": "jingles/Xenogears - Jingle.mp3"
     },
     {
-      "game": "Ys: The Oath in Felghana",
+      "game": "Ys - The Oath in Felghana",
       "file": "jingles/YsOath - Jingle.mp3"
     },
     {
@@ -320,6 +320,10 @@
     {
       "game": "dotHack Infection",
       "file": "jingles/dotHackInfection - Jingle.mp3"
+    },
+    {
+      "game": "Ape Escape 3",
+      "file": "jingles/ApeEscape3 - Jingle.mp3"
     }
   ]
 }
