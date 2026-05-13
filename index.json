@@ -324,6 +324,10 @@
     {
       "game": "Ape Escape 3",
       "file": "jingles/ApeEscape3 - Jingle.mp3"
+    },
+    {
+      "game": "Chrono Trigger",
+      "file": "jingles/ChronoTrigger - Jingle.mp3"
     }
   ]
 }
