@@ -328,6 +328,10 @@
     {
       "game": "Chrono Trigger",
       "file": "jingles/ChronoTrigger - Jingle.mp3"
+    },
+    {
+      "game": "Sonic Colors",
+      "file": "jingles/SonicColors - Jingle.mp3"
     }
   ]
 }
