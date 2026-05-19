@@ -332,6 +332,10 @@
     {
       "game": "Sonic Colors",
       "file": "jingles/SonicColors - Jingle.mp3"
+    },
+    {
+      "game": "Ratchet and Clank Going Commando",
+      "file": "jingles/RatchetClankGC - Jingle.mp3"
     }
   ]
 }
